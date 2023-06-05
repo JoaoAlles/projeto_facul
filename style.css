@@ -4,7 +4,7 @@ body {
   padding: 0;
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* Adicionado para ocupar pelo menos a altura total da viewport */
+  min-height: 100vh; 
 }
 
 header {
@@ -32,7 +32,7 @@ nav ul li {
 }
 
 main {
-  flex: 1; /* Alterado para flex: 1 para ocupar o espaço restante */
+  flex: 1; 
   padding: 20px;
 }
 
