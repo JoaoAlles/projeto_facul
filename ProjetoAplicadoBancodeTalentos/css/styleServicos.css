@@ -39,10 +39,27 @@ body {
   }
   
   section {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     flex: 1; 
     padding: 20px;
   }
+
+  #basico {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:dodgerblue;
+  }
+
+  #essencial {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:dodgerblue;
+  }
   
+  #premium {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:dodgerblue;
+  }
+
+
   footer {
     background-color: #333;
     color: #fff;

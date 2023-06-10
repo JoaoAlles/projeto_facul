@@ -39,6 +39,8 @@ body {
   }
   
   section {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 35px;
     flex: 1; 
     padding: 20px;
     text-align: left;
