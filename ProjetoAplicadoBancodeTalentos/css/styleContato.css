@@ -41,6 +41,11 @@ body {
   section {
     flex: 1; 
     padding: 20px;
+    text-align: left;
+  }
+
+  section h2 {
+    color:dodgerblue;
   }
   
   footer {
